@@ -18,7 +18,7 @@ frontend/.env
 .bkit-memory.json
 .pdca-status.json
 PROGRESS.md
-docs/**/*.json
+docs/*.json
 
 # OS
 .DS_Store
